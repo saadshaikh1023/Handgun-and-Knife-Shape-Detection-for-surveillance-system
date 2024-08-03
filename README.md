@@ -1,4 +1,4 @@
-<h1>weapon Detection using YOLOv8</h1>
+<h1>Weapon Detection using YOLOv8</h1>
 
 This project implements a weapon detection system using the YOLOv8 (You Only Look Once) object detection model. The system can identify and extract weapon from images with high accuracy and speed.
 
